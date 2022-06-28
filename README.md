@@ -15,4 +15,10 @@
 - ⚡ Fun fact: ...
 
 
-https://github-readme-stats.vercel.app/api?username=suyashpatil400&count_private=true&show_icons=true&theme=radical
+![](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff) 
+![](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)
+![](https://img.shields.io/badge/-PYTHON-fffff?logo=python&logoColor=fff) 
+![](https://img.shields.io/badge/-JAVA-FFFF00?logo=Java&logoColor=fff) 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Meghwantsingh&count_private=true&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MEGHWANTSINGH&show_icons=true&theme=radical)
