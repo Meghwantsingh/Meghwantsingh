@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4CF7D3F1&lines=HELLO%2C+I+am+MEGHWANT+SINGH;Interested+in+learning+NEW+TECHNOLOGY;Web+Development%2C+Android+Development;Machine+learning;above+all+love+Cloud+Computing+)](https://git.io/typing-svg)
 
 **Meghwantsingh** is a ✨ _special_ ✨ repository my GitHub profile.
 
